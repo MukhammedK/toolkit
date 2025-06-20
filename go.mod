@@ -1,3 +1,3 @@
-module github.com/yourname/toolkit
+module github.com/MukhammedK/toolkit
 
 go 1.24.2
